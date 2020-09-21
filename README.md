@@ -1,7 +1,32 @@
 # About-Me-
 
-Hello, my name is Elliott , I have a background in csv. 
+## Hello, 
+
+### ***My name is Semone***
+
+I have a background in csv.
+
 My career goal would be to work in the field of finance. 
+
 I have choosen Fintech because I want a change of career. 
 
-Thank you for reading. 
+
+|_Thanks for reading_ |
+|------------------------| 
+
+
+
+
+
+***Follow the Link*** : 
+
+[Semone's linkedin ](https://www.linkedin.com/feed/)
+
+![Getting started][https://media.warriortrading.com/2020/01/shutterstock_1159552885.jpg]
+
+
+
+
+
+
+
